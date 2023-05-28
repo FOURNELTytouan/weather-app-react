@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Installations :
+
+Node js
+
+npm install -D tailwindcss
+
+npx tailwindcss init
+
+npm install --save @iconscout/react-unicons
+
+npm i luxon
+
 ## Available Scripts
 
 In the project directory, you can run:
